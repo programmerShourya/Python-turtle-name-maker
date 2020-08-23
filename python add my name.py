@@ -4,6 +4,7 @@ FONT_SIZE = 20
 FONT = ("Arial", FONT_SIZE, "bold")
 
 yertle = Turtle()
+yertle.bgcolor("red")
 
 # The turtle starts life in the center of the window
 # but let's assume we've been drawing other things
