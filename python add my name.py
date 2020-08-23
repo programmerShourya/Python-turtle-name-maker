@@ -1,6 +1,6 @@
 from turtle import Turtle, Screen
 FONT_SIZE = 20
-wn.bgcolor("Red")
+
 
 FONT = ("Arial", FONT_SIZE, "bold")
 
